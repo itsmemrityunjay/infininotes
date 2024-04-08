@@ -166,16 +166,6 @@ const StudyMaterial = () => {
         </div>
       </section>
 
-      
-  
-  
-
-
-
-
-
-
-
     </>
   );
 };
