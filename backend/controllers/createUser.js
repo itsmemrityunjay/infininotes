@@ -1,6 +1,6 @@
 const User = require("../models/userSchema");
 
-const createUser = async (req, res) => {
+exports.createUser = async (req, res) => {
   const { name, email, password } = req.body;
   const user = new User({
     name,

@@ -22,7 +22,7 @@ function Navbar() {
       <button
         type="button"
         className="text-white bg-red-700 hover:bg-black-800 focus:ring-4 focus:outline-none focus:ring-black-300 font-medium rounded-lg text-sm px-4 py-2 text-center dark:bg-red-600 dark:hover:bg-black-700 dark:focus:ring-black-800"
-      ><Link to="/login">Log In/ Sign Up</Link>
+      ><Link to="/login-signup">Log In/ Sign Up</Link>
         
       </button>
       <button
